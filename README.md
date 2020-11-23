@@ -9,6 +9,7 @@
 7. [《ROS常用SLAM功能包使用指南》](https://class.guyuehome.com/detail/p_5ed700a841cc8_UpE7PGXW/6) ：mbot_slam
 8. [《如何实现ROS机器人自主导航》](https://class.guyuehome.com/detail/p_5ee871cc4674f_R75Aafau/6) ：mbot_navigation
 9. [《ROS机器视觉开发入门》](https://class.guyuehome.com/detail/p_5efc3fe2f3a60_JH9Pammo/6) ：robot_vision_beginner
+10. [《PyTorch入门：一起从零搭建神经网络》](https://class.guyuehome.com/detail/p_5fbb2fd9e4b0231ba88829d0/6) ：number_distinguish
 
 
 
